@@ -122,7 +122,7 @@ The purpose of this repository is to:
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/html-css-js-projects.git
+https://github.com/Ayushkapat/HTML-CSS-and-JavaScript-Project/blob/main/README.md
 ```
 
 2. Open any project folder.
